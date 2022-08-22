@@ -1,3 +1,8 @@
+#w taki sposob sa zapisywane notatki:
+#---------------[01.01.2022]---------------
+# lorem ipsum lorem ipsum lorem ipsumlorem ipsum
+#---------------[01.02.2022]---------------
+
 import re
 
 with open('/home/dominik/ubuntu_shared/notatki.txt') as f:
